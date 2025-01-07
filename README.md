@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
