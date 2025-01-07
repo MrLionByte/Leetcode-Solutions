@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
