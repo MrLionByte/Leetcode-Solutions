@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
