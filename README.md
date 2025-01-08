@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -23,10 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +38,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
