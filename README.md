@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
