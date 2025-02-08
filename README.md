@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3429-special-array-i) |
 ## Stack
 |  |
 | ------- |
