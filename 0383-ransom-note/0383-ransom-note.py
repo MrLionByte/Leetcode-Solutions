@@ -3,8 +3,7 @@ class Solution:
         for i in ransomNote:
             if i not in magazine:
                 return False
-            elif ransomNote.count(i) != magazine.count(i):
-                if ransomNote.count(i) > magazine.count(i):
-                    return False
+            elif ransomNote.count(i) != magazine.count(i) and ransomNote.count(i) > magazine.count(i):
+                return False
         return True
          
