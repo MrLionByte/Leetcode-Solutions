@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Prefix Sum
 |  |
@@ -76,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
