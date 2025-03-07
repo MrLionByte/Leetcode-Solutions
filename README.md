@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3429-special-array-i) |
 ## Stack
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
