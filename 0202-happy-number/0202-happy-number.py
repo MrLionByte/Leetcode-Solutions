@@ -3,8 +3,6 @@ class Solution:
         checked = set()
         if n == 1:
             return True
-        if n in [3,2,4,5,6,8,9]:
-            return False
         while n not in checked and n != 1:
             answer = 0
             checked.add(n)
