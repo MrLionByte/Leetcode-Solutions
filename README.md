@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Counting
 |  |
