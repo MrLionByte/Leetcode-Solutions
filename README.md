@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Counting
