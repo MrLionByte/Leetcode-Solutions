@@ -97,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
