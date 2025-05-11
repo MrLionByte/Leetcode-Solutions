@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2447-merge-similar-items](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2447-merge-similar-items](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Prefix Sum
 |  |
