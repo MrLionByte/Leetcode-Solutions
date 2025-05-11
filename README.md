@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -104,10 +106,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
