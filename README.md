@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
