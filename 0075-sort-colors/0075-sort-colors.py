@@ -4,17 +4,17 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        red = nums.count(0)
-        white = nums.count(1)
-        blue = nums.count(2)
+        low, mid, high = 0, 0, len(nums)-1
 
-        index = 0
-        while index < len(nums):
-            if index < red:
-                nums[index] = 0
-            elif index >= red and index < red+white:
-                nums[index] = 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[mid], nums[low] = nums[low], nums[mid]
+                mid += 1
+                low += 1
+            elif nums[mid] == 1:
+                mid += 1
             else:
-                nums[index] = 2
-            index += 1
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
+                
         
