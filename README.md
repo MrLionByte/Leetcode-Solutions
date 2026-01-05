@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1524-string-matching-in-an-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2447-merge-similar-items](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/MrLionByte/Leetcode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
